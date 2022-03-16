@@ -1,0 +1,26 @@
+{
+    "name": "puppeter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/samrat2825/puppeter.git"
+    },
+    "keywords": [
+        "puppeter"
+    ],
+    "author": "samrat",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/samrat2825/puppeter/issues"
+    },
+    "homepage": "https://github.com/samrat2825/puppeter#readme",
+    "dependencies": {
+        "puppeteer": "^13.5.1"
+    },
+    "type": "module"
+}
